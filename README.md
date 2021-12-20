@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FatimaImdary
+- 👋 Hi, I’m @stepbystep
 - 👀 I’m interested in industrial technologies
 - 🌱 I’m currently learning IOT
 - 💞️ I’m looking to collaborate on a project
